@@ -7,6 +7,7 @@ import seaborn as sns
 from scipy import stats
 from sklearn.decomposition import PCA
 from sklearn.impute import KNNImputer
+import statsmodels.api as sm
 
 
 

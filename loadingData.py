@@ -28,11 +28,10 @@ df['branch'].unique()
 # %%
 df['branch'].nunique()
 # %%
-df['cgpa'].value_counts()
+df['branch'].value_counts()
 #%%
 df['cgpa'].mean()
 #%%
 df['cgpa'].median()
 #%%
 df['cgpa'].mode()
-
